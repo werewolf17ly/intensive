@@ -1,2 +1,2 @@
 # Intensive
-Studying bash and C, without tasks
+Studying bash and C, without tasks(different branches)
