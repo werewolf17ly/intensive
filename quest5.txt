@@ -1,0 +1,4 @@
+I used vim
+Pressed «I» to change mode to «INSERT» 
+Then moved to the word «CLOSED» and changed it to «OPEN» 
+Then pressed Esc, «:wq»
